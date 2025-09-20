@@ -4,8 +4,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green)]()
 
 A data-driven visualization model for space debris distribution, focusing exclusively on empirically verified objects through actual tracking data. This model provides a realistic representation of trackable space debris, particularly demonstrating the concentration of objects in Low Earth Orbit (LEO).
+<img width="6636" height="4522" alt="image" src="https://github.com/user-attachments/assets/a263e023-3164-4514-9770-4d3b6bc4f95e" />
 
-![Orbital Distribution](debris_analysis_output/orbital_distribution.png)
 
 ## 🎯 Key Features
 
