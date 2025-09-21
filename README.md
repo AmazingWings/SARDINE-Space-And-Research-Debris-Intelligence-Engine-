@@ -1,4 +1,4 @@
-# 🛰️ Empirical Space Debris Distribution Model
+# 🛰️ Space Debris Distribution Model
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)]()
 [![License](https://img.shields.io/badge/license-MIT-green)]()
