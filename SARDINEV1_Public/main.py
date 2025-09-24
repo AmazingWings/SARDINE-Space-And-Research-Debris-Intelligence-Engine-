@@ -3,14 +3,11 @@
 Space Debris Orbital Distribution Model
 Main execution script
 
-Based on credible sources:
-- NASA Orbital Debris Program Office (ODPO) 2024 Reports
-- ESA Space Environment Report 2025
-- NASA Technical Reports Server
 
-Author: Space Debris Research Team
+
+Author: Shriyans Dwivedi
 Version: 1.0
-Date: September 2024
+Date: September 2025
 """
 
 import sys
